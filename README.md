@@ -33,5 +33,8 @@
 - For more explanation of this project https://jibankumar.hashnode.dev/
 
 
-## Just follow☝️ me and Star⭐ my repository 
+## Just follow☝️ me and Star⭐ my repository
+
+**Now we can host this application AWS **
+
 
