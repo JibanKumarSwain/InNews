@@ -35,6 +35,31 @@
 
 ## Just follow☝️ me and Star⭐ my repository
 
-**Now we can host this application AWS **
+## Now we can host this application AWS 
+- Create a AWS Account
+
+## Create a (Linux/Ubuntu) EC2-Instance
+- Go-to Root user.
+
+## Update the server
+- (sudo apt-get / yum) update
+
+## Install python3-pip
+- (sudo apt-get / yum) install
+
+## Install Git
+- (sudo apt-get / yum) install Git
+
+## Configuration of file
+- Create a file in server use "mkdir file_neme"
+- Download a file form git use "wget file_name"
+- After download the file we get the zip file but we need to unzip file "unzip file_name"
+- Enter the unzip file "cd file_name"
+- Install all Requirement file "pip install -r requirements.txt"
+- Then run the application "python3 -m streamlit run App.py"
+- We need to run ower application continually use "nohup python3 -m streamlit run App.py"
+- After type this command you get your application run link or IP cope the IP paste in your other tab and see it's work
+  
+  
 
 
