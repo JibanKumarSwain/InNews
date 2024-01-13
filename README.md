@@ -31,7 +31,7 @@
   streamlit run App.py --server.port 80
   ```
 - For more explanation of this project https://jibankumar.hashnode.dev/
-
+      
 
 ## Just follow☝️ me and Star⭐ my repository
 
