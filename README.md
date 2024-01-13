@@ -55,7 +55,7 @@
 - Download a file form git use "wget file_name"
 - After download the file we get the zip file but we need to unzip file "unzip file_name"
 - Enter the unzip file "cd file_name"
-- Install all Requirement file "pip install -r requirements.txt"
+- Install all Requirement file "python3 -m pip install -r requirements.txt"
 - Then run the application "python3 -m streamlit run App.py"
 - We need to run ower application continually use "nohup python3 -m streamlit run App.py"
 - After type this command you get your application run link or IP cope the IP paste in your other tab and see it's work
