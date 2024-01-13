@@ -8,7 +8,7 @@
 
 ## [Demo of App](https://share.streamlit.io/spidy20/innews/App.py)
 
-## Source
+## Source   
 - For summarizing the news I have used [Newspaper3k](https://newspaper.readthedocs.io/en/latest/)
 - For scraping the news I have used Google News RSS API.
 
