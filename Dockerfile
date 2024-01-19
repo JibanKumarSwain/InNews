@@ -9,7 +9,7 @@ RUN apt-get update && \
 WORKDIR /app
 
 # Copy the current directory contents into the container at /app
-#"copy . ." we can use this also
+#"COPY . ." we can use this also
 COPY . /App
 
 # Install any needed packages specified in requirements.txt
