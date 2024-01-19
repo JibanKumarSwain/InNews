@@ -60,7 +60,7 @@
 - We need to run ower application continually use "nohup python3 -m streamlit run App.py"
 - After type this command you get your application run link or IP cope the IP paste in your other tab and see it's work
 
-# or use we can use it in Docker also
+# or Use we can use it in Docker also
 - Install Docker "sudo apt-get install -y docker.io
 - Chack docker status "systemctl status docker"
 - If it's active or it's show "inactive" use "systemctl start docker"
@@ -72,7 +72,7 @@
 - Then your container is run and your application also use
 - Chack container status "docker ps"
 - Chack all stop or runing container status "docker ps -a"
-- 
+
   
 
 
