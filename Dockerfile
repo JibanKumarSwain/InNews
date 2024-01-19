@@ -1,7 +1,7 @@
 FROM ubuntu:latest
 
 # Set environment variables
-ENV DEBIAN_FRONTEND=noninteractive
+ENV DEBIAN_FRONTEND=noninteractive 
 
 # Update and install required dependencies
 RUN apt-get update && \
