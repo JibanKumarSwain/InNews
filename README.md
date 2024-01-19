@@ -63,7 +63,7 @@
 
 # OR Use we can use it in Docker also
 
-- Install Docker "sudo apt-get install -y docker.io
+- Install Docker "sudo apt-get install -y docker.io"
 - Chack docker status "systemctl status docker"
 - If it's active or it's show "inactive" use "systemctl start docker"
 - We have a Dockefile
