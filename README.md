@@ -66,7 +66,7 @@
 - Install Docker "sudo apt-get install -y docker.io"
 - Chack docker status "systemctl status docker"
 - If it's active or it's show "inactive" use "systemctl start docker"
-- We have a Dockefile
+- We have a Dockefile  
 - Create docker images "docker build . -t pythonapp" 
 - After create the docker images chack the images "docker images" or "docker image ls"
 - Create docker container "docker run -p 8501:8501 pythonapp"
