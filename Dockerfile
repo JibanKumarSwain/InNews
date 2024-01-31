@@ -16,7 +16,7 @@ COPY . /App
 RUN pip3 install -r requirements.txt
     
 # Expose port 8501 for Streamlit
-EXPOSE 8501
+EXPOSE 8501    
 
 # Run Streamlit app
 CMD ["streamlit", "run", "--server.port", "8501", "App.py"]
