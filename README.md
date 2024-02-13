@@ -7,7 +7,7 @@
   
 ## [Watch Tutorial for this project](https://youtu.be/HHYqpHwGDgQ) 
 <img src="https://github.com/Spidy20/InNews/blob/master/thumb.jpg">
-
+    
 ## [Demo of App](https://share.streamlit.io/spidy20/innews/App.py)
 
 ## Source   
