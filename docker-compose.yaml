@@ -7,7 +7,7 @@ services:
       dockerfile: Dockerfile
     ports:
       - "8501:8501"    
-    volumes:
+    volumes:    
       - .:/app        
     command: ["streamlit", "run", "--server.port", "8501", "App.py"]     
   
