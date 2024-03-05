@@ -9,5 +9,5 @@ services:
       - "8501:8501"    
     volumes:    
       - .:/app        
-    command: ["streamlit", "run", "--server.port", "8501", "App.py"]     
+    command: ["streamlit", "run", "--server.port", "8501", "App.py"]           
   
