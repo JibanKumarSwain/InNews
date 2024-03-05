@@ -8,7 +8,7 @@ RUN apt-get update && \
 # Set the working directory in the container
 WORKDIR /app     
         
-# Copy the current directory contents into the container at /app          
+# Copy the current directory contents into the container at /app           
 #"COPY . ." we can use this also
 COPY . .    
       
