@@ -16,7 +16,7 @@
 ## Features         
 - Trending News   
 - Favorite Topics
-- Search News
+- Search News   
 - Quantity control
          
 ## Usage
