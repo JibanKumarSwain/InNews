@@ -14,7 +14,7 @@
 - For scraping the news I have used Google News RSS API.         
    
 ## Features         
-- Trending News   
+- Trending News          
 - Favorite Topics
 - Search News   
 - Quantity control
