@@ -12,7 +12,7 @@ WORKDIR /app
 #"COPY . ." we can use this also     
 COPY . .    
       
-# Install any needed packages specified in requirements.txt
+# Install any needed packages specified in requirements.txt    
 RUN pip3 install -r requirements.txt
     
 # Expose port 8501 for Streamlit   
