@@ -18,7 +18,7 @@
 - Favorite Topics
 - Search News   
 - Quantity control
-         
+            
 ## Usage
 - Clone my repository.
 - Open CMD in working directory.
