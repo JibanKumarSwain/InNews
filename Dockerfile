@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-   
+        
 MAINTAINER jiban                     
 # Update and install required dependencies     
 RUN apt-get update && \ 
