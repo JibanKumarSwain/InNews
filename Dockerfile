@@ -1,7 +1,7 @@
 FROM ubuntu:latest
         
 MAINTAINER jiban                     
-# Update and install required dependencies         
+# Update and install required dependencies             
 RUN apt-get update && \ 
     apt-get install -y python3 python3-pip   
   
