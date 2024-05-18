@@ -1,5 +1,5 @@
 # project -4   
-
+             
 # InNews🇮🇳: News Summarizer App
       
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                      
